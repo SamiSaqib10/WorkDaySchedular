@@ -18,7 +18,7 @@ Clicking the save button for a timeblock saves the entered text for that event i
 When the page is refreshed, the saved events persist.
 Getting Started
 
-To run the Work Day Scheduler application, open deployed website from: https://samisaqib10.github.io/WorkDaySchedular/
+To run the Work Day Scheduler application, open deployed website from:  https://samisaqib10.github.io/WorkDaySchedular/
 
 
 Usage
