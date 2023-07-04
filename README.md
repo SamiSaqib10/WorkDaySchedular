@@ -41,6 +41,7 @@ Day.js: A JavaScript date library for parsing, validating, manipulating, and for
 All the necessary dependencies are included in the project files, so there is no need to download them separately.
 
 Acknowledgements
+
 Bootstrap: https://getbootstrap.com/
 
 jQuery: https://jquery.com/
